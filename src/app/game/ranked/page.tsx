@@ -25,7 +25,7 @@ export default function RankedPage() {
     return (
         <div>
             <div
-                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block ">
                 <div className="mb-3 text-2xl font-bold text-black">Coming Soon!</div>
                 <div className="grid place-items-center">
                     <div className="text-black">
@@ -41,21 +41,21 @@ export default function RankedPage() {
             </div>
             <div
                 data-aos="fade-right"
-                className="bg-white ml-3 mr-3 p-10 mt-96 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                className="bg-white ml-3 mr-3 p-10 mt-96 mb-10 relative rounded-lg break-words tex t-black block">
                 <div className="mb-3 text-2xl font-bold text-black">Bronze Bouncer</div>
                 <div className="grid place-items-center">
                 <Image className="rounded-xl" src={bronze} alt={"bronze rank"}/>
                 </div>
             </div>
             <div data-aos="fade-right"
-                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block ">
                 <div className="mb-3 text-2xl font-bold text-black">Silver Shaker</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={silver} alt={"bronze rank"}/>
                 </div>
             </div>
             <div data-aos="fade-right"
-                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block">
                 <div className="mb-3 text-2xl font-bold text-black">Golden Grinder</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={golden} alt={"bronze rank"}/>
@@ -63,14 +63,14 @@ export default function RankedPage() {
             </div>
             <div
                 data-aos="fade-right"
-                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block ">
                 <div className="mb-3 text-2xl font-bold text-black">Platinum Pounder</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={platinum} alt={"bronze rank"}/>
                 </div>
             </div>
             <div data-aos="fade-right"
-                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block">
                 <div className="mb-3 text-2xl font-bold text-black">Titanium Twerker</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={titanium} alt={"bronze rank"}/>
@@ -78,14 +78,14 @@ export default function RankedPage() {
             </div>
             <div
                  data-aos="fade-right"
-                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block ">
                 <div className="mb-3 text-2xl font-bold text-black">Vibranium Vibrator</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={vibranium} alt={"bronze rank"}/>
                 </div>
             </div>
             <div data-aos="fade-right"
-                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                 className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block ">
                 <div className="mb-3 text-2xl font-bold text-black">Elon Enchanter</div>
                 <div className="grid place-items-center">
                     <Image className="rounded-xl" src={elon} alt={"bronze rank"}/>

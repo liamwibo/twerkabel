@@ -50,7 +50,7 @@ export default function Home() {
               </div>
           </div>
           <div data-aos="fade-up"
-               className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words text-black block sm:hidden">
+               className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words text-black block">
               <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor"
                    className="bi bi-joystick mb-2" viewBox="0 0 16 16">
                   <path

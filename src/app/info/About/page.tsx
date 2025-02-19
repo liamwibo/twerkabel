@@ -5,7 +5,7 @@ export default function About() {
     return (
         <div>
             <div
-                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block sm:hidden">
+                className="bg-white ml-3 mr-3 p-10 mt-10 mb-10 relative rounded-lg break-words tex t-black block">
                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="black"
                      className="bi bi-info-circle mb-4" viewBox="0 0 16 16">
                     <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
