@@ -12,12 +12,14 @@
     "aos": "^2.3.4",
     "next": "15.1.7",
     "nookies": "^2.5.2",
+    "oas": "^25.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "zod": "^3.24.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/aos": "^3.0.7",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
