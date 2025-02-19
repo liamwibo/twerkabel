@@ -1,6 +1,4 @@
 import Link from 'next/link';
-import {bgGreen, green} from "next/dist/lib/picocolors";
-
 export default function Navbar() {
     return (
         <div className="bg-green-600 flex items-center gap-x-5 justify-center sm:justify-start h-20 text-white  font-bold flex-wrap place-content-evenly sticky top-0 z-20">

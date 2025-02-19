@@ -8,7 +8,6 @@ import titanium from '@/../public/titanium.webp';
 import vibranium from '@/../public/vibranium.webp';
 import elon from '@/../public/elon.webp';
 import Image from 'next/image';
-import Link from "next/link";
 import React from "react";
 import { useEffect } from 'react'
 import AOS from 'aos'
