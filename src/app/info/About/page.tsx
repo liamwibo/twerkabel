@@ -21,7 +21,7 @@ export default function About() {
                         elektriciteit.
                         Of je nu een doorgewinterde twerker bent of gewoon je best doet op de maat, bij ons draag je
                         letterlijk bij aan een groenere planeet. 💃🔋 Sluit je aan en laat die wattages maar komen!
-                        dit is een test
+                        dit is een test3 bla bla ble ble ble ble blu blu blu
                     </div>
                     <div className="text-black text-xs text-center mt-3">Hier een korte informatieve video over hoe wij tewerk gaan.</div>
                     <Link className="mt-6 bg-red-500 p-3 rounded-md animate-" href="https://www.youtube.com/watch?v=TSpDnK3K3YY">Bekijk Hier!</Link>
